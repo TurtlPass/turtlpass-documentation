@@ -26,5 +26,3 @@ By following these steps, you can generate secure hashes using the Argon2 hashin
 4. **Generate Salt**: Generate a salt value to increase the security of the hash. For TurtlPass Firmware, the salt is derived from the combination of `DomainName` and `AccountID` using the `SHA-512` hashing algorithm.
 5. **Compute Hash Value**: Use the configured `Argon2` parameters and the input data to compute the hash value. Combine the input data and salt, then pass them to the Argon2 hashing function along with the parameters set in step 3.
 6. **Use the Secure Hash**: The generated hash can now be used for various security-sensitive purposes within the TurtlPass Firmware, such as password generation or data encryption. Ensure that you handle the hash securely and do not expose it to unauthorized parties.
-
-\
