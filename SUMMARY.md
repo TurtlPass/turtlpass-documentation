@@ -11,6 +11,7 @@
 * [📟 Firmware Documentation](firmware-documentation/README.md)
   * [🏗️ Circuit Diagram](firmware-documentation/circuit-diagram.md)
   * [💿 Flashing RP2040](firmware-documentation/flashing-rp2040.md)
+  * [🔷 USB VID:PID](firmware-documentation/usb-vid-pid.md)
   * [🔁 USB Serial Communication](firmware-documentation/usb-serial-communication.md)
   * [⌨️ Command-List](firmware-documentation/command-list/README.md)
     * [🔑 Password Generation](firmware-documentation/command-list/password-generation.md)
