@@ -26,6 +26,7 @@ description: >-
   * Shared secrets are encrypted with `AES-256` in the virtual `EEPROM`
 * **Hardware Encryption**
   * Files encrypted on the device using the `ChaCha20` algorithm
+  * Speed: \~80 kB/s @ 133 Mhz
 
 ## 🚀 How it Works
 
