@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🐢 TurtlPass](README.md)
-  * [🚀 How it Works](readme/how-it-works.md)
   * [🏰 Fortified Against Cyber Threats](readme/fortified-against-cyber-threats.md)
   * [✨ Motivation for Creating TurtlPass](readme/motivation-for-creating-turtlpass.md)
   * [🤳 Meaning Behind the TurtlPass Name](readme/meaning-behind-the-turtlpass-name.md)

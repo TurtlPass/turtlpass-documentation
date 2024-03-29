@@ -2,7 +2,7 @@
 description: One-time passwords (aka One-time passcodes)
 ---
 
-# OTP Management
+# 🔢 OTP Management
 
 ## ⏳ Get OTP Code
 

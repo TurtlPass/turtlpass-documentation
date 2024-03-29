@@ -2,7 +2,7 @@
 description: ChaCha20 algorithm
 ---
 
-# Hardware Encryption
+# 🗃️ Hardware Encryption
 
 ## 🔒 Encrypt
 

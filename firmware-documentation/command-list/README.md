@@ -4,7 +4,7 @@ description: >-
   Firmware.
 ---
 
-# Command-List
+# ⌨️ Command-List
 
 The TurtlPass Firmware offers a range of commands to facilitate secure password management, OTP generation, and encryption operations. By utilizing these commands, apps can effectively interact with the firmware and leverage its capabilities to enhance their security practices.
 

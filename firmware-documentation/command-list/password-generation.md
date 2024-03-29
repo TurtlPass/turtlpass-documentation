@@ -1,4 +1,4 @@
-# Password Generation
+# 🔑 Password Generation
 
 ### Input Specification
 

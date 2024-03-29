@@ -5,7 +5,7 @@ description: >-
   command-line tool.
 ---
 
-# USB Serial Communication
+# 🔁 USB Serial Communication
 
 ### Overview
 
