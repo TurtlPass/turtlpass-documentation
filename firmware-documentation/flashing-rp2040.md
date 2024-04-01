@@ -14,12 +14,24 @@
 
 **Run the following command to compile the firmware to your RP2040 board:**
 
+_Option A:_ If you have a touch sensor TTP-223 wired to the PIN `2`
+
 ```bash
 $ arduino-cli compile --clean \
 --fqbn "rp2040:rp2040:generic" \
 --output-dir ../turtlpass-firmware/build/ \
 --build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.0.0\"\"" \
 --build-property "build.extra_flags=\"-D__TURTLPASS_PIN_TTP223__=2\"" \
+../turtlpass-firmware/turtlpass-firmware.ino
+```
+
+_Option B:_ If you don't have a touch sensor TTP-223, fallback to built-in `BOOTSEL` button
+
+```bash
+$ arduino-cli compile --clean \
+--fqbn "rp2040:rp2040:generic" \
+--output-dir ../turtlpass-firmware/build/ \
+--build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.0.0\"\"" \
 ../turtlpass-firmware/turtlpass-firmware.ino
 ```
 
