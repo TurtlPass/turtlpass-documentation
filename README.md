@@ -12,7 +12,7 @@ description: >-
 
 </div>
 
-[![Firmware Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-firmware-arduino?color=blue\&label=Arduino%20Firmware\&logo=arduino)](https://github.com/TurtlPass/turtlpass-firmware-arduino) [![Android Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-android?color=blue\&label=Android%20App\&logo=android)](https://github.com/TurtlPass/turtlpass-android) [![Chrome Extension Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-chrome-extension?color=blue\&label=Chrome%20Extension\&logo=googlechrome)](https://github.com/TurtlPass/turtlpass-chrome-extension)
+[![Firmware Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-firmware-arduino?color=blue\&label=Arduino%20Firmware\&logo=arduino)](https://github.com/TurtlPass/turtlpass-firmware-arduino) [![Android Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-android?color=blue\&label=Android%20App\&logo=android)](https://github.com/TurtlPass/turtlpass-android) [![Chrome Extension Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-chrome-extension?color=blue\&label=Chrome%20Extension\&logo=googlechrome)](https://github.com/TurtlPass/turtlpass-chrome-extension) [![Python CLI Repo](https://img.shields.io/github/v/release/TurtlPass/turtlpass-python?color=blue\&label=Python%20CLI\&logo=python)](https://github.com/TurtlPass/turtlpass-python)
 
 ## ⚡ Features
 
