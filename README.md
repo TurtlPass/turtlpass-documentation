@@ -18,12 +18,12 @@ description: >-
 
 * **Hardware Password Generator**
   * Unlimited passwords are generated on the device
-  * Passwords are 100 characters long, including a combination of lowercase and uppercase letters, as well as numbers
+  * Passwords are 100 characters long, including a combination of lowercase and uppercase letters, as well as numbers (plus symbols if you choose to)
   * Automatically types the password for you, so you don't have to
 * **Hardware 2FA Manager**
-  * One-time passwords (OTP) are generated on the device&#x20;
+  * One-time passwords are generated on the device&#x20;
   * Automatically types the OTP code whenever you're ready
-  * Shared secrets are encrypted with `AES-256` in the virtual `EEPROM`
+  * Shared secrets are encrypted with `ChaCha20` algorithm in the `EEPROM`
 * **Hardware Encryption**
   * Files encrypted on the device using the `ChaCha20` algorithm
   * Speed: \~80 kB/s @ 133 Mhz
