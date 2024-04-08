@@ -17,10 +17,10 @@
 _Option A:_ If you have a touch sensor TTP-223 wired to the PIN `2`
 
 ```bash
-$ arduino-cli compile --clean \
+arduino-cli compile --clean \
 --fqbn "rp2040:rp2040:generic" \
 --output-dir ../turtlpass-firmware/build/ \
---build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.0.0\"\"" \
+--build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.1.0\"\"" \
 --build-property "build.extra_flags=\"-D__TURTLPASS_PIN_TTP223__=2\"" \
 ../turtlpass-firmware/turtlpass-firmware.ino
 ```
@@ -28,10 +28,10 @@ $ arduino-cli compile --clean \
 _Option B:_ If you don't have a touch sensor TTP-223, fallback to built-in `BOOTSEL` button
 
 ```bash
-$ arduino-cli compile --clean \
+arduino-cli compile --clean \
 --fqbn "rp2040:rp2040:generic" \
 --output-dir ../turtlpass-firmware/build/ \
---build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.0.0\"\"" \
+--build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.1.0\"\"" \
 ../turtlpass-firmware/turtlpass-firmware.ino
 ```
 
@@ -44,7 +44,7 @@ $ arduino-cli compile --clean \
 _Example:_
 
 ```bash
-$ arduino-cli upload \
+arduino-cli upload \
 --fqbn "rp2040:rp2040:generic" \
 -i ../turtlpass-firmware/build/turtlpass-firmware.ino.bin \
 -p /dev/cu.usbmodem14101
