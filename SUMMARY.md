@@ -5,6 +5,7 @@
   * [✨ Motivation for Creating TurtlPass](readme/motivation-for-creating-turtlpass.md)
   * [🤳 Meaning Behind the TurtlPass Name](readme/meaning-behind-the-turtlpass-name.md)
   * [🏝️ Embracing Turtle Conservation](readme/embracing-turtle-conservation.md)
+  * [🛣️ Roadmap](readme/roadmap.md)
   * [📖 Privacy Policy](readme/privacy-policy.md)
 * [🖥️ Client Documentation](client-documentation/README.md)
   * [🔐 Generating Secure Hash with Argon2](client-documentation/generating-secure-hash-with-argon2.md)
