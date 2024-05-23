@@ -1,14 +1,12 @@
 # Table of contents
 
-* [TurtlPass](README.md)
+* [🐢 TurtlPass](README.md)
   * [🏰 Fortified Against Cyber Threats](readme/fortified-against-cyber-threats.md)
   * [✨ Motivation for Creating TurtlPass](readme/motivation-for-creating-turtlpass.md)
   * [🤳 Meaning Behind the TurtlPass Name](readme/meaning-behind-the-turtlpass-name.md)
   * [🏝️ Embracing Turtle Conservation](readme/embracing-turtle-conservation.md)
   * [🛣️ Roadmap](readme/roadmap.md)
   * [📖 Privacy Policy](readme/privacy-policy.md)
-* [🖥️ Client Documentation](client-documentation/README.md)
-  * [🔐 Generating Secure Hash with Argon2](client-documentation/generating-secure-hash-with-argon2.md)
 * [📟 Firmware Documentation](firmware-documentation/README.md)
   * [🏗️ Circuit Diagram](firmware-documentation/circuit-diagram.md)
   * [💿 Flashing RP2040](firmware-documentation/flashing-rp2040.md)
@@ -22,3 +20,5 @@
   * [💡 LED Color / Seed](firmware-documentation/led-color-seed.md)
   * [💾 Backup](firmware-documentation/backup.md)
   * [🛡️ Security](firmware-documentation/security.md)
+* [🖥️ Client Documentation](client-documentation/README.md)
+  * [🔐 Generating Secure Hash with Argon2](client-documentation/generating-secure-hash-with-argon2.md)
