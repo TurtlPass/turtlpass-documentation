@@ -53,4 +53,3 @@
   * Needs a different UI/UX since Chrome or Android APIs aren't available here
 * **Add support to iOS**
   * Write custom iOS logic to fetch installed apps
-* **Mechanism to Sync Devices** / Sync user data across devices
