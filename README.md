@@ -49,4 +49,6 @@ TurtlPass combines the power of hardware and software to keep your passwords saf
 
 TurtlPass is **not** a FIDO Security Key and does **not** intend to be one. If you're looking for that, check [pico-fido](https://github.com/polhenarejos/pico-fido) project. TurtlPass is designed for all the websites and apps that still require a `password` field.
 
+***
+
 Dive into the future of secure password management with TurtlPass. Protecting you, saving turtles, and simplifying your digital life.
