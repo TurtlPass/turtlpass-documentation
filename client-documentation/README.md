@@ -19,7 +19,7 @@ Preview:
 
 <details>
 
-<summary>Chrome Extension</summary>
+<summary>Browser Extension</summary>
 
 Source code: [https://github.com/TurtlPass/turtlpass-chrome-extension](https://github.com/TurtlPass/turtlpass-chrome-extension)
 
