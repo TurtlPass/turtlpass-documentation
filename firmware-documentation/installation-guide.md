@@ -37,6 +37,7 @@ arduino-cli compile --clean \
 --fqbn "rp2040:rp2040:generic" \
 --output-dir ../turtlpass-firmware/build/ \
 --build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.1.0\"\"" \
+--build-property "build.extra_flags=\"-D__TURTLPASS_PIN_TTP223__=2\"" \
 ../turtlpass-firmware/turtlpass-firmware.ino
 ```
 
@@ -51,7 +52,6 @@ arduino-cli compile --clean \
 --fqbn "rp2040:rp2040:generic" \
 --output-dir ../turtlpass-firmware/build/ \
 --build-property "build.extra_flags=\"-D__TURTLPASS_VERSION__=\"2.1.0\"\"" \
---build-property "build.extra_flags=\"-D__TURTLPASS_PIN_TTP223__=2\"" \
 ../turtlpass-firmware/turtlpass-firmware.ino
 ```
 
